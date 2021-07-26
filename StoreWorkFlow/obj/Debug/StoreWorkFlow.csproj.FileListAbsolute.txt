@@ -1,0 +1,11 @@
+C:\Praveen\D\Projects\Learning\MSDynamics\StoreWorkFlow\StoreWorkFlow\bin\Debug\StoreWorkFlow.dll
+C:\Praveen\D\Projects\Learning\MSDynamics\StoreWorkFlow\StoreWorkFlow\bin\Debug\StoreWorkFlow.pdb
+C:\Praveen\D\Projects\Learning\MSDynamics\StoreWorkFlow\StoreWorkFlow\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Praveen\D\Projects\Learning\MSDynamics\StoreWorkFlow\StoreWorkFlow\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Praveen\D\Projects\Learning\MSDynamics\StoreWorkFlow\StoreWorkFlow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Praveen\D\Projects\Learning\MSDynamics\StoreWorkFlow\StoreWorkFlow\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Praveen\D\Projects\Learning\MSDynamics\StoreWorkFlow\StoreWorkFlow\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Praveen\D\Projects\Learning\MSDynamics\StoreWorkFlow\StoreWorkFlow\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Praveen\D\Projects\Learning\MSDynamics\StoreWorkFlow\StoreWorkFlow\obj\Debug\StoreWorkFlow.csproj.CopyComplete
+C:\Praveen\D\Projects\Learning\MSDynamics\StoreWorkFlow\StoreWorkFlow\obj\Debug\StoreWorkFlow.dll
+C:\Praveen\D\Projects\Learning\MSDynamics\StoreWorkFlow\StoreWorkFlow\obj\Debug\StoreWorkFlow.pdb
